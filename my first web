@@ -1,0 +1,30 @@
+<!DOCTYPEhtml>
+
+<head>
+<title>
+MY FIRST WEB
+</title>
+<meta name="description" content=" tutorials" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"
+
+</head>
+
+<body>
+
+<meta charset="UTF-8" />
+<h1> 
+<ol type="I" start="5">
+<li>Salaams, How are you?</li>
+<li>I am Qusai</li>
+<li> I study in Jamea Saifiyah Surat</li>
+<li> I am in Darajah 5AM<l/li>
+</ol></h1>
+<h2></<ul> <li>My Masool is Shk Moiz B Mala </li>
+ <li>Below are the links to 2 websites</li></ul></h2>
+<h1><a href="https://www.jhs.com"> Click here to login into your JHS account</a></h1>
+<h2><a href="https://www.its52.com"> Click here to login into your ITS account </a></h2>
+<img src="name.jpg" alt="jamea saifiyah "104" height="142">
+<pr
+</body>
+
+</html>
